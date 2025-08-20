@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.quadrado {
+    width: 200px;
+    height: 200px;
+}
+.ok {
+  background-color: black;
+}
+.botao {
+    width: 8vw;
+    height: 3vh;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    padding: 10vh;
+    gap: 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
