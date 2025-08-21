@@ -8,5 +8,5 @@ const changeColor = () => {
     console.log(inputcolor);
 
     let quadrado = document.getElementById('quadrado');
-    quadrado.classList.toggle("ok");
+    quadrado.classList;
 }
