@@ -1,0 +1,8 @@
+.purple-square {
+    background-color: rgb(93, 22, 134);
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
