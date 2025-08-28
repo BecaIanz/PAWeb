@@ -1,11 +1,12 @@
 .body {
-  width: 100vw;
-  height: 100vh;
-  background-color: rgb(206, 157, 221);
+  width: 97.4vw;
+  height: 94.8vh;
+  background-color: rgb(164, 159, 167);
   display: flex;
   align-items: center;
-  justify-content: center;
-  flex-direction: column;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 20px;
 }
 
 /* #root {
