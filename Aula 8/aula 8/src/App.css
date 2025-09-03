@@ -1,0 +1,15 @@
+
+.all{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(243, 151, 205);
+  flex-direction: column;
+}
+.button {
+  width: 250px;
+  height: 100px;
+  background-color: rgb(167, 68, 55);
+}
