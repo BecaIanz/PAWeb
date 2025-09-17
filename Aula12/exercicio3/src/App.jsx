@@ -11,6 +11,7 @@ function App() {
     <>
       <BrowserRouter >
       <Routes >
+        <Route path='/user' element={<User/>} ></Route>
         <Route path='/user/:id' element={<User/>} ></Route>
       </Routes>
       </BrowserRouter>
