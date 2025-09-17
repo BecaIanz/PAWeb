@@ -1,0 +1,11 @@
+.all{
+    width: 100vw;
+    height: 85vh;
+    background-color: rgb(136, 97, 104);
+    color: rgb(231, 188, 188);
+}
+.button {
+  width: 250px;
+  height: 100px;
+  background-color: rgb(167, 68, 55);
+}

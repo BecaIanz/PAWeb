@@ -1,0 +1,20 @@
+.all{
+    width: 100vw;
+    height: 84vh;
+    background-color: rgb(136, 97, 104);
+    color: rgb(231, 188, 188);
+    gap: 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 1vh;
+}
+input {
+    width: 200px;
+    height: 40px;
+    border: none;
+    background-color: rgb(37, 20, 41);
+}
+input:focus {
+    border: none;
+}

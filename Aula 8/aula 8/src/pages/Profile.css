@@ -1,0 +1,12 @@
+/* *{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(136, 97, 104);
+    color: rgb(231, 188, 188);
+} */
+.all{
+    width: 100vw;
+    height: 85vh;
+    background-color: rgb(136, 97, 104);
+    color: rgb(231, 188, 188);
+}
