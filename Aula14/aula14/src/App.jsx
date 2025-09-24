@@ -16,6 +16,7 @@ function App() {
   //   getDog();
   //   getCat();
   // },[])
+  // .
 
   const getCat = async () => {
     const response = await axios.get('https://api.thecatapi.com/v1/images/search');
