@@ -108,10 +108,10 @@ function App() {
             <div className='h-full w-60 bg-cyan-600 flex justify-center items-center flex-col'>
 
               <div className='h-1/3 w-60 flex justify-center items-center'>
-                <div className='h-full w-1/3 bg-amber-200'></div>
+                <div className=' h-full w-1/3 bg-amber-200'></div>
               </div>
 
-              <div className='h-1/3 w-60 flex justify-center items-center'>
+              <div className='h-1/4 w-60 flex justify-center items-center'>
               </div>
 
               <div className='h-1/3 w-60 flex justify-end items-center'></div>
