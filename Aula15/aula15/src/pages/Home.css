@@ -1,0 +1,31 @@
+.all{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(126, 148, 119);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 30px;
+}
+.header {
+    height: 13vh;
+    width: 100%;
+    font-size: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(67, 27, 100);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* position: ; */
+}
+h2{
+    color: rgb(67, 27, 100);
+}
+input{
+    width: 200px;
+    height: 30px;
+    background-color: rgb(67, 27, 100);
+}

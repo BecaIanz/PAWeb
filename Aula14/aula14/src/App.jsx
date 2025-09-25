@@ -39,8 +39,10 @@ function App() {
         Cachorrinhos 
       </div>
         <h1>Você deseja ver um gato ou um cachorro?</h1>
-        <button className='button' onClick={getDog}>Cachorro</button>
-        <button className='button' onClick={getCat}>Gato</button>
+        <div className='button-group'>
+          <button className='button' onClick={getDog}>Cachorro</button>
+          <button className='button' onClick={getCat}>Gato</button>
+        </div>
       {
         isCat ? <img src={cat} alt="gatinho sumiu" /> : <div className='header'/>
       }
